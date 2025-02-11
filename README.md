@@ -5,6 +5,7 @@ This repository contains various JavaScript projects. Each project is located in
 ## Projects
 
 - [Piano](./piano/README.md): A virtual piano that plays notes when keys are pressed.
+- [Zod](./zod/README.md): Examples of using Zod for schema validation.
 
 ## Starting the Server
 
@@ -19,7 +20,7 @@ To start the server and access the projects, follow these steps:
 2. Navigate to the root directory of the repository:
 
     ```sh
-    cd /Users/yevhen.yatskiv/Personal/Workspace/javascript
+    cd javascript
     ```
 
 3. Start the server on port `8080`:
@@ -31,3 +32,22 @@ To start the server and access the projects, follow these steps:
 4. Access the Piano project in your browser at:
 
     [http://localhost:8080/piano/](http://localhost:8080/piano/)
+
+# How to Run Zod Examples
+
+To run the Zod examples provided in the `zod/src/index.js` file, follow these steps:
+
+1. **Install Dependencies**:
+   Ensure you have Node.js installed. Then, navigate to the project directory and install the required dependencies.
+   ```bash
+   cd javascript
+   npm install zod
+   ```
+
+2. **Run the Examples**:
+   Execute the `zod/src/index.js` file using Node.js.
+   ```bash
+   node zod/src/index.js
+   ```
+
+You should see the output of various Zod schema validations in the console.

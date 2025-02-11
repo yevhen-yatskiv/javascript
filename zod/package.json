@@ -1,0 +1,14 @@
+{
+  "name": "zod-examples",
+  "version": "1.0.0",
+  "description": "A project demonstrating the use of the zod library",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "zod": "^3.11.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
