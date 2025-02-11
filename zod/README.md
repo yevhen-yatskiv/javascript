@@ -1,4 +1,4 @@
-# Zod Subproject
+# Zod
 
 This subproject demonstrates the usage of the Zod library to validate and parse data.
 

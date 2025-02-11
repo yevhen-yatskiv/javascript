@@ -1,4 +1,4 @@
-# Piano Project
+# Piano
 
 This project is a virtual piano that allows users to play notes by clicking on the keys.
 
