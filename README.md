@@ -20,7 +20,7 @@ To start the server and access the projects, follow these steps:
 2. Navigate to the root directory of the repository:
 
     ```sh
-    cd javascript
+    cd js
     ```
 
 3. Start the server on port `8080`:
@@ -40,7 +40,7 @@ To run the Zod examples provided in the `zod/src/index.js` file, follow these st
 1. **Install Dependencies**:
    Ensure you have Node.js installed. Then, navigate to the project directory and install the required dependencies.
    ```bash
-   cd javascript
+   cd js
    npm install zod
    ```
 
